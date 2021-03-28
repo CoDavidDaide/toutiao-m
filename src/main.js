@@ -11,6 +11,9 @@ import './styles/index.less'
 // 动态设置rem
 import 'amfe-flexible'
 
+// 加载dayjs
+import './utils/dayjs'
+
 Vue.use(Vant)
 
 Vue.config.productionTip = false
